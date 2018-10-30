@@ -15,3 +15,5 @@ To je moj navadni tekst.
 
 
 #### H4 to je pa 4. naslov
+
+~~To pa ni prav~~
